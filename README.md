@@ -11,4 +11,10 @@ Based on the data from the Summary DataFrame above, we can see that there are cl
 ![pyber_challenge](https://user-images.githubusercontent.com/73972332/102665256-5d593200-4139-11eb-9c23-d3e0c7a4acce.png)
 <br/>
 When viewing the PyBer data by city type over time, we can see that the average total fare has a similar pattern over various months of the year between January and April with total fares peaking around March. Fares in urban cities again clearly lead the way in fares collected and so bring in the most amount of revenue for PyBer, followed by Suburban located cities and then Rural cities. Across the board, fares remain the lowest in January, slowly rise to a peak in beginning of March, back down a little and then slightly back up for Suburban areas in April. 
+
 ## Summary
+Based on the above results, I would recommend to the CEO of PyBer three business suggestions in order to address disparity among city types: 
+1) Focus recruiting efforts on rural and suburban areas to increase amount of drivers in those areas. 
+2) Conduct Target adveritising for both consumers and drivers (contracters) in rural and suburban areas. 
+3) Offer marketing incentives for consumers to order app based driving in suburban and rural areas. Incentivize city workforce to go out and work in rural and suburban areas. 
+4) Host job fairs and marketing events in rural and suburban areas. 
